@@ -1,2 +1,2 @@
-# MusicSmall
+# MusicSimple
 Basic music app
